@@ -27,7 +27,7 @@ local inputCap = 5000000
 local minChargeInput = 1200000
 local baseOutput = 2500000
 
-local chargeFieldMin = 99
+local chargeFieldMin = 98
 local chargeSatMin = 99
 
 -- Operating temperature band
