@@ -1,4 +1,4 @@
-# Draconic-ComputerCraft-Program 1.20.1 (Don't know if it works with any other version but this is what I tested it on!)
+# Draconic-ComputerCraft-Program -with Auto Function 1.20.1 (Don't know if it works with any other version but this is what I tested it on!)
 Computercraft menu for the reactor on Draconic Evolution mod
 
 Setup 3x3 monitor.
@@ -21,13 +21,5 @@ The screenshot above shows how the input flux gate is connected to the computer.
 
 The screenshot above is the monitor. Tells the user all the stats plus some buttons to control the reactor with.
 
-Pastebin Code:
-Keep this as startup so if there any updates to the program it automatically updates the files and runs the program
-
->pastebin get EJPU9YAA startup
-
-# For 1.12.2
-If you still using the 1.12.2 install of draconic evolution then please read [this!](https://github.com/StormFusions/Draconic-ComputerCraft-Program/blob/1.12.2/README.md)
-
 # Credit
-Credit to [acidjazz](https://github.com/acidjazz) for f API and some of the code to make this work.
+Credit to [acidjazz](https://github.com/acidjazz) for the API and some of the code to make this work as well as [StormFusions](https://github.com/StormFusions/storm_rtd).
