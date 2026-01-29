@@ -5,7 +5,11 @@ Setup 3x3 monitor.
 
 Monitor, reactor and the flux gates need to be wired up by the wire modem!
 
+Download reactor9.lua and place it in your computer's files (world<computercraft<computer). 
+
 # **BEFORE STARTING THE PROGRAM MAKE SURE YOU PUT THE INPUT FLUX GATE SIGNAL LOW TO 10**
+
+Open terminal, type "reactor9.lua".
 
 ![2025-02-28_02 19 50](https://github.com/user-attachments/assets/2ffc4336-6df0-46bf-a9aa-1f42c693c80f)
 
